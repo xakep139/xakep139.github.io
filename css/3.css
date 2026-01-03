@@ -10,7 +10,7 @@
 #wb_footer > .wb_cont_bg:before { background: transparent none repeat left top; background-size: auto auto; }
 html { scroll-behavior: smooth; }
 body { background-color: transparent; }
-body.site:before { background: transparent url("../gallery_gen/5763acb1541a356f706fd200ff777b9d.jpg") no-repeat scroll center top; background-size: auto auto; }
+body.site:before { background: transparent url("../gallery_gen/bg.jpg") no-repeat scroll center top; background-size: auto auto; }
 .wb_sbg { background: transparent none repeat-x left top; }
 body, .wb_sbg { min-width: 992px; min-height: 1499px; }
 .wb_cont_inner { width: 992px; }
